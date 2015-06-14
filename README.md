@@ -1,5 +1,5 @@
 # Adaptive-CLPSO
-<p align="justify"> Matlab codes for Macroscopic Adaptive Comprehensive Learning Particle Swarm Optimizer (MaPSO) and	Microscopic Learning  Adaptive Comprehensive Particle Swarm Optimizer (MiPSO) algorithms <a href="http://link.springer.com/chapter/10.1007/978-3-319-10849-0_27"  target="_blank">[1]</a>. </p>
+<p align="justify"> Matlab codes for Macroscopic Adaptive Comprehensive Learning Particle Swarm Optimizer (MaPSO) and	Microscopic Adaptive Comprehensive Learning Particle Swarm Optimizer (MiPSO) algorithms <a href="http://link.springer.com/chapter/10.1007/978-3-319-10849-0_27"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cld.persiangig.com/download/PORkFxRoVh/SPRINGER-AISP-2014.pdf/dl" target="_blank">Full Text</a></h2>
 <h2><a href="http://cld.persiangig.com/download/YZLINJt6DK/SPRINGER-AISP-2014.pptx/dl" target="_blank"> Presentation </h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
