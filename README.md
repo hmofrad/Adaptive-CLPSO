@@ -9,6 +9,6 @@
 <h2><a id="reference" class="anchor" href="#reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://link.springer.com/chapter/10.1007/978-3-319-10849-0_27"  target="_blank"> Adaptive Parameter Selection in Comprehensive Learning Particle Swarm Optimizer</a>," in Artificial Intelligence and Signal Processing, Springer International Publishing, 2014, pp. 267–276.</p>
+<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Mohammad Mehdi Ebadzadeh, "<a href="http://link.springer.com/chapter/10.1007/978-3-319-10849-0_27"  target="_blank"> Adaptive parameter selection in comprehensive learning particle swarm optimizer</a>," in Artificial Intelligence and Signal Processing, Springer International Publishing, 2014, pp. 267–276.</p>
 
 
